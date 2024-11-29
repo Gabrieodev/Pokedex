@@ -23,11 +23,8 @@ Este projeto é uma **Pokedex interativa e responsiva**, desenvolvida como parte
 
 ---
 
-## 🔗 Como Acessar
+## 🔗 Como Acessar 
 
-- **Acesse online:**  
-  👉 [Pokedex Responsiva](#)  
-
-- **Ou clone o repositório:**  
+- **Clone o repositório:**  
   ```bash
   git clone https://github.com/seu-usuario/pokedex-responsiva.git
